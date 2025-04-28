@@ -46209,7 +46209,7 @@ q=g*0.1
 p=A.dP(m,A.cM(h,m,m,m,A.d2(m,m,B.l,m,m,m,m,m,l,m,m,b,m,m,B.ar,m,m,!0,m,m,m,m,m,m,m,m),m,m),m,m,q,m,f*0.04,m)
 o=a==null?"":a
 n=t.p
-return A.fd(B.bN,A.b([s,A.dP(m,A.fd(B.d_,A.b([r,p,A.dP(m,A.e4(A.cM(o,m,m,m,A.d2(m,m,B.l,m,m,m,m,m,l,m,m,b,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),B.bk,m),m,m),m,m,g*0.15,q,f*0.13,m)],n),B.F,B.aH),m,m,e,m,i,m)],n),B.F,B.aH)},
+return A.fd(B.bN,A.b([s,A.dP(m,A.fd(B.d_,A.b([r,p,A.dP(m,A.e4(A.cM(o,m,m,m,A.d2(m,m,B.l,m,m,m,m,m,l,m,m,b,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),B.bk,m),m,m),m,m,g*0.15,q,f*0.12,m)],n),B.F,B.aH),m,m,e,m,i,m)],n),B.F,B.aH)},
 NN(a,b,c,a0,a1){var s,r,q,p,o,n,m,l=this,k=null,j="RetroGaming",i=a0*0.2,h=c*0.4,g=A.aBH(A.fs(8),A.hO("assets/images/statistics/stats_box.png",B.bc,h,i)),f=h*0.05,e=i*0.05,d=l.as
 d=d==null?k:d.a
 if(d==null)d="Guest"
