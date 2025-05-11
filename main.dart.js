@@ -48518,8 +48518,8 @@ n=A.k(o).h("bi<1>")
 r=a.a
 q=B.b.i2(A.a8(new A.bi(o,n),!0,n.h("o.E")),r)+1
 if(s){o=""+q
-p=q<=5?"assets/images/achievements/achv_"+o+".png":"assets/Animations/achvs/achv_"+o+".json"}else p=null
-return new A.xa(r,s,p,q>5)},
+p=q<=8?"assets/images/achievements/achv_"+o+".png":"assets/Animations/achvs/achv_"+o+".json"}else p=null
+return new A.xa(r,s,p,q>8)},
 $S:242}
 A.aBy.prototype={
 $0(){A.j0(this.a).D3(null)
